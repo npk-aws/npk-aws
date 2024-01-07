@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik NP
-- 👀 I’m interested in Cloud Computing and DevOps practicess
+- 👀 I’m interested in Cloud Computing and DevOps practices
 - 🌱 I’m currently learning AWS, Linux and DevOps
 - 💞️ I’m currently looking for jobs in AWS cloud and DevOps related projects
 - 📫 Phone: 9113515662, e-mail: aws.npk@gmail.com, Linkedin: www.linkedin.com/in/karthik-npzero
